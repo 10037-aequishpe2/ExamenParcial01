@@ -7,7 +7,7 @@ class SaludoComponent extends HTMLElement {
   
       // Creamos un elemento para el saludo
       const saludo = document.createElement('h1');
-      saludo.textContent = '¡Hola, Mundo!';
+      saludo.textContent = '¡Hola, Mundo! - Anthony Quishpe';
       saludo.style.fontWeight = 'bold';
   
       // Agregamos el elemento al shadow DOM
